@@ -26,7 +26,7 @@
 - Programming: **Python**, **JavaScript**, **C#**  
 - Frameworks & Tools: **Django**, **React**, **Unity3D**  
 - CI/CD & DevOps: GitHub Actions, Linux Servers  
-- Languages: Fluent in **English** and **Arabic**  
+- Languages: Fluent in **English** and **Arabic**, curretnly having a B1 course in **German** 
 
 ---
 
