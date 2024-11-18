@@ -18,7 +18,7 @@
 ### 🌟 Key Projects
 
 - **Serious Games for Peacebuilding**: Designed multiplayer games for NGOs, enhancing collaboration across borders.  
-  [Explore on ArabiaFelix](https://arabiafelix.social/)
+  [Explore on ArabiaFelix](https://arabiafelix.social/en)
 - **Odoo ERP for SFD Yemen**: Deployed and scaled ERP solutions for 550 employees and 11,000 contractors.  
   [View Project](http://presentations.yousefh.com/SFD-Presentation/#/overview)
 
