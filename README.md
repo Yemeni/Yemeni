@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yousef Al-Hadhrami!
 
-<h3 align="center">A full-stack developer with careful consideration to software principles</h3>
+<h3 align="center">A full-stack developer with careful considerations to software eingineering principles</h3>
 
 ---
 
