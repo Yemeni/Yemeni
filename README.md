@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yousef Al-Hadhrami!
 
-<h3 align="center">A passionate full-stack developer with expertise in scalable applications and game design</h3>
+<h3 align="center">A full-stack developer with careful consideration to software principles</h3>
 
 ---
 
