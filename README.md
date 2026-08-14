@@ -26,6 +26,17 @@ I'm a software engineer based in Germany with experience across web platforms, e
 | [AI Blog System](https://github.com/Yemeni/ai_blog_system) | A multilingual Django platform with AI-assisted content generation, translations, REST APIs, Docker, and CI/CD |
 | [Herdr Agent Timer](https://github.com/Yemeni/herdr-agent-timer) | A shell-based plugin that surfaces elapsed agent time directly in Herdr status labels |
 
+## Earlier work & open-source contributions
+
+- **[Odoo RTL support](https://github.com/Yemeni/odoo/pull/1):** Contributed a merged web-editor fix that keeps the Summernote toolbar left-to-right when editing right-to-left languages.
+- **[Kamaran MIS](https://github.com/Yemeni/Kamaran):** An early graduation project built with PHP, Laravel, and MySQL.
+- **[lvlacc](https://github.com/Yemeni/lvlacc):** An accounting application built with AngularJS and LevelDB.
+- **[SPA_Game](https://github.com/Yemeni/SPA_Game):** A Backbone.js single-page simulation game created as a university web-development project.
+- **Unity ecosystem:** Worked with and adapted open-source tools including [RTLTMPro](https://github.com/Yemeni/RTLTMPro) for Arabic and Persian text, [AudioManager](https://github.com/Yemeni/AudioManager), and [Snap-To-Grid](https://github.com/Yemeni/Snap-To-Grid).
+- **[NodeTube Install Script](https://github.com/Yemeni/NodeTube-Install-Script):** Shell automation for deploying the NodeTube open-source video platform.
+
+These repositories represent earlier projects and experiments; some are historical snapshots rather than actively maintained software.
+
 ## Technology
 
 <p align="center">
