@@ -11,7 +11,6 @@ The original `arabiafelix.social` website is no longer available. These public r
 - [Bomburo — Game Design with and for Yemeni Youth](https://www.bomburo.com/arabia-felix-games): project case study covering the co-creation process, game design, animation, UI, and the individual games.
 - [Butterfly Works — Arabia Felix mobile games](https://www.butterflyworks.org/storage/app/media/One%20pagers/BW_ArabiaFelix.pdf): project overview describing the GIZ initiative, partners, outcomes, and the mobile-game series.
 - [Digital Anthropology — Peacebuilding through digital games](https://digitaleanthropologie.de/friedensfoerderung-durch-digitale-spiele-repraesentationen-von-idealen-in-serious-games/): independent research discussing *The Secrets of Arabia Felix* as a peacebuilding serious game.
-- [Civic Playgrounds — Terms for a peace game in Yemen](https://civicplaygrounds.com/portfolio-item/tors-for-the-development-of-a-peace-game-for-yemen/): a later project reference describing the ninth Arabia Felix serious game.
 
 ## Games mentioned in the references
 

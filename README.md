@@ -22,7 +22,7 @@ I'm a software engineer based in Germany with experience across web platforms, e
 | Project | What I worked on |
 | --- | --- |
 | [Arabia Felix](docs/arabia-felix.md) | Serious mobile games designed with Yemeni youth to support dialogue, education, inclusion, and peacebuilding |
-| [SFD Yemen ERP](https://presentations.yousefh.com/SFD-Presentation/#/overview) | An Odoo deployment scaled for 550 employees and 11,000 contractors |
+| SFD Yemen ERP | An Odoo deployment scaled for 550 employees and 11,000 contractors |
 | [AI Blog System](https://github.com/Yemeni/ai_blog_system) | A multilingual Django platform with AI-assisted content generation, translations, REST APIs, Docker, and CI/CD |
 | [Herdr Agent Timer](https://github.com/Yemeni/herdr-agent-timer) | A shell-based plugin that surfaces elapsed agent time directly in Herdr status labels |
 
@@ -31,8 +31,8 @@ I'm a software engineer based in Germany with experience across web platforms, e
 <p align="center">
   <a href="https://www.python.org/" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"></a>
   <a href="https://www.djangoproject.com/" title="Django"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"></a>
-  <a href="https://wagtail.org/" title="Wagtail"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wagtail/wagtail-plain.svg" alt="Wagtail" width="40" height="40"></a>
-  <a href="https://www.odoo.com/" title="Odoo"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/odoo/odoo-original.svg" alt="Odoo" width="40" height="40"></a>
+  <a href="https://wagtail.org/" title="Wagtail"><img src="https://cdn.simpleicons.org/wagtail/43B02A" alt="Wagtail" width="40" height="40"></a>
+  <a href="https://www.odoo.com/" title="Odoo"><img src="https://cdn.simpleicons.org/odoo/714B67" alt="Odoo" width="40" height="40"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"></a>
   <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"></a>
   <a href="https://react.dev/" title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"></a>
@@ -73,7 +73,7 @@ I'm open to collaborating on thoughtful software, developer tooling, and project
 
 <p align="center">
   <a href="https://arkadia.dev" title="Website"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Website" width="36" height="36"></a>
-  <a href="https://www.linkedin.com/in/yousefalhadhrami/" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="36" height="36"></a>
+  <a href="https://www.linkedin.com/in/yousefalhadhrami/" title="LinkedIn"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36" height="36"></a>
   <a href="https://github.com/Yemeni" title="GitHub"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="36" height="36"></a>
 </p>
 
