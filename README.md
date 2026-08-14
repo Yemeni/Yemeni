@@ -26,6 +26,15 @@ I'm a software engineer based in Germany with experience across web platforms, e
 | [AI Blog System](https://github.com/Yemeni/ai_blog_system) | A multilingual Django platform with AI-assisted content generation, translations, REST APIs, Docker, and CI/CD |
 | [Herdr Agent Timer](https://github.com/Yemeni/herdr-agent-timer) | A shell-based plugin that surfaces elapsed agent time directly in Herdr status labels |
 
+## Earlier work & open-source contributions
+
+- **Odoo RTL support:** Reported [issue #46356](https://github.com/odoo/odoo/issues/46356) and submitted [PR #53444](https://github.com/odoo/odoo/pull/53444) plus [follow-up PR #56359](https://github.com/odoo/odoo/pull/56359) to keep the Summernote toolbar left-to-right when editing right-to-left languages. Both PRs were closed without an upstream merge. I also submitted [PR #53369](https://github.com/odoo/odoo/pull/53369) for [issue #50090](https://github.com/odoo/odoo/issues/50090).
+- **[Kamaran MIS](https://github.com/Yemeni/Kamaran):** An early graduation project built with PHP, Laravel, and MySQL.
+- **[SPA_Game](https://github.com/Yemeni/SPA_Game):** A Backbone.js single-page simulation game created as a university web-development project.
+- **Unity ecosystem:** Worked with and adapted the open-source [AudioManager](https://github.com/CarterGames/AudioManager) library.
+
+These repositories represent earlier projects and experiments; some are historical snapshots rather than actively maintained software.
+
 ## Technology
 
 <p align="center">
