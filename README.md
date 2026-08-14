@@ -21,7 +21,7 @@ I'm a software engineer based in Germany with experience across web platforms, e
 
 | Project | What I worked on |
 | --- | --- |
-| [ArabiaFelix](https://arabiafelix.social/en) | Serious multiplayer games designed to support collaboration and peacebuilding programs across borders |
+| [Arabia Felix](docs/arabia-felix.md) | Serious mobile games designed with Yemeni youth to support dialogue, education, inclusion, and peacebuilding |
 | [SFD Yemen ERP](https://presentations.yousefh.com/SFD-Presentation/#/overview) | An Odoo deployment scaled for 550 employees and 11,000 contractors |
 | [AI Blog System](https://github.com/Yemeni/ai_blog_system) | A multilingual Django platform with AI-assisted content generation, translations, REST APIs, Docker, and CI/CD |
 | [Herdr Agent Timer](https://github.com/Yemeni/herdr-agent-timer) | A shell-based plugin that surfaces elapsed agent time directly in Herdr status labels |
