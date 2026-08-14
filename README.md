@@ -28,12 +28,12 @@ I'm a software engineer based in Germany with experience across web platforms, e
 
 ## Earlier work & open-source contributions
 
-- **[Odoo RTL support](https://github.com/Yemeni/odoo/pull/1):** Contributed a merged web-editor fix that keeps the Summernote toolbar left-to-right when editing right-to-left languages.
+- **Odoo RTL support:** Reported [issue #46356](https://github.com/odoo/odoo/issues/46356) and submitted [PR #53444](https://github.com/odoo/odoo/pull/53444) plus [follow-up PR #56359](https://github.com/odoo/odoo/pull/56359) to keep the Summernote toolbar left-to-right when editing right-to-left languages. Both PRs were closed without an upstream merge. I also submitted [PR #53369](https://github.com/odoo/odoo/pull/53369) for [issue #50090](https://github.com/odoo/odoo/issues/50090).
 - **[Kamaran MIS](https://github.com/Yemeni/Kamaran):** An early graduation project built with PHP, Laravel, and MySQL.
 - **[lvlacc](https://github.com/Yemeni/lvlacc):** An accounting application built with AngularJS and LevelDB.
 - **[SPA_Game](https://github.com/Yemeni/SPA_Game):** A Backbone.js single-page simulation game created as a university web-development project.
-- **Unity ecosystem:** Worked with and adapted open-source tools including [RTLTMPro](https://github.com/Yemeni/RTLTMPro) for Arabic and Persian text, [AudioManager](https://github.com/Yemeni/AudioManager), and [Snap-To-Grid](https://github.com/Yemeni/Snap-To-Grid).
-- **[NodeTube Install Script](https://github.com/Yemeni/NodeTube-Install-Script):** Shell automation for deploying the NodeTube open-source video platform.
+- **Unity ecosystem:** Worked with and adapted open-source tools including [RTLTMPro](https://github.com/pnarimani/RTLTMPro) for Arabic and Persian text ([my fork](https://github.com/Yemeni/RTLTMPro)), [AudioManager](https://github.com/CarterGames/AudioManager) ([my fork](https://github.com/Yemeni/AudioManager)), and [Snap-To-Grid](https://github.com/Legendxh/Snap-To-Grid) ([my fork](https://github.com/Yemeni/Snap-To-Grid)).
+- **[NodeTube Install Script](https://github.com/Yemeni/NodeTube-Install-Script):** Shell automation for deploying the [NodeTube](https://github.com/mayeaux/nodetube) open-source video platform.
 
 These repositories represent earlier projects and experiments; some are historical snapshots rather than actively maintained software.
 
